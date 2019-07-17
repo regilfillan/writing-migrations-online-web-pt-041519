@@ -1,6 +1,6 @@
 class CreateStudents < ActiveRecord::Migration[5.1]
   
-  def create 
+  def change 
     
   end
   
